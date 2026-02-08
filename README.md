@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/norisrivatsa/LeetCodeProbs/tree/master/0202-happy-number) |
+| [0290-word-pattern](https://github.com/norisrivatsa/LeetCodeProbs/tree/master/0290-word-pattern) |
 ## Math
 |  |
 | ------- |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/norisrivatsa/LeetCodeProbs/tree/master/0202-happy-number) |
+## String
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/norisrivatsa/LeetCodeProbs/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
