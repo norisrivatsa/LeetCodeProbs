@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/norisrivatsa/LeetCodeProbs/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/norisrivatsa/LeetCodeProbs/tree/master/0290-word-pattern) |
 ## Math
 | Problem Name | Difficulty |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0022-generate-parentheses/) | Medium |
+| [0242-valid-anagram](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/norisrivatsa/LeetCodeProbs/tree/master/0290-word-pattern) |
 ## Linked List
 | Problem Name | Difficulty |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0022-generate-parentheses/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
