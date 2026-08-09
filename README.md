@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0022-generate-parentheses/) | Medium |
+| [0338-counting-bits](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0338-counting-bits/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0238-product-of-array-except-self/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0338-counting-bits](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
