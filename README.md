@@ -63,5 +63,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0190-reverse-bits](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0190-reverse-bits/) | Easy |
 | [0338-counting-bits](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0338-counting-bits/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0190-reverse-bits/) | Easy |
 <!---LeetCode Topics End-->
