@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0202-happy-number](https://github.com/norisrivatsa/LeetCodeProbs/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/norisrivatsa/LeetCodeProbs/tree/master/0290-word-pattern) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0238-product-of-array-except-self/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0190-reverse-bits/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
