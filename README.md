@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0739-daily-temperatures](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0739-daily-temperatures/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0739-daily-temperatures/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
