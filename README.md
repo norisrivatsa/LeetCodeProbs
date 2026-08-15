@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0202-happy-number](https://github.com/norisrivatsa/LeetCodeProbs/tree/master/0202-happy-number) |
+| [1768-merge-strings-alternately](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/norisrivatsa/LeetCodeProbs/tree/master/0290-word-pattern) |
+| [1768-merge-strings-alternately](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
