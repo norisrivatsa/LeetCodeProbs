@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0202-happy-number](https://github.com/norisrivatsa/LeetCodeProbs/tree/master/0202-happy-number) |
 | [1768-merge-strings-alternately](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0049-group-anagrams/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0739-daily-temperatures](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0739-daily-temperatures/) | Medium |
