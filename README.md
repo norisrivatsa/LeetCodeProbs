@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/norisrivatsa/LeetCodeProbs/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/norisrivatsa/LeetCodeProbs/tree/master/0290-word-pattern) |
+| [3692-majority-frequency-characters](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/3692-majority-frequency-characters/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0412-fizz-buzz/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/1768-merge-strings-alternately/) | Easy |
+| [3692-majority-frequency-characters](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/3692-majority-frequency-characters/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0412-fizz-buzz/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3692-majority-frequency-characters](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/3692-majority-frequency-characters/) | Easy |
 <!---LeetCode Topics End-->
