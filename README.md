@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0002-add-two-numbers/) | Medium |
 | [0189-rotate-array](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/norisrivatsa/LeetCodeProbs/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0412-fizz-buzz/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/norisrivatsa/LeetCodeProbs/tree/master/0290-word-pattern) |
+| [0412-fizz-buzz](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0412-fizz-buzz/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0739-daily-temperatures/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
