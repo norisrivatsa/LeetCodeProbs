@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0202-happy-number](https://github.com/norisrivatsa/LeetCodeProbs/tree/master/0202-happy-number) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0049-group-anagrams/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0128-longest-consecutive-sequence/) | Medium |
