@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0189-rotate-array](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0704-binary-search](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0739-daily-temperatures/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3692-majority-frequency-characters](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/3692-majority-frequency-characters/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
