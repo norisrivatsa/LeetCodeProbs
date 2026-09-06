@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/norisrivatsa/LeetCodeProbs/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0412-fizz-buzz/) | Easy |
+| [0509-fibonacci-number](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0002-add-two-numbers/) | Medium |
+| [0509-fibonacci-number](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0022-generate-parentheses/) | Medium |
 | [0338-counting-bits](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0338-counting-bits/) | Easy |
+| [0509-fibonacci-number](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0509-fibonacci-number/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
