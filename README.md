@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/norisrivatsa/LeetCodeProbs/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/norisrivatsa/LeetCodeProbs/tree/master/0290-word-pattern) |
+| [2043-simple-bank-system](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/2043-simple-bank-system/) | Medium |
 | [3692-majority-frequency-characters](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/3692-majority-frequency-characters/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0283-move-zeroes/) | Easy |
 | [0704-binary-search](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0739-daily-temperatures/) | Medium |
+| [2043-simple-bank-system](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/2043-simple-bank-system/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0412-fizz-buzz/) | Easy |
+| [2043-simple-bank-system](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/2043-simple-bank-system/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/0509-fibonacci-number/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2043-simple-bank-system](https://github.com/norisrivatsa/LeetCodeProbs/tree/main/2043-simple-bank-system/) | Medium |
 <!---LeetCode Topics End-->
